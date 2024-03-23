@@ -1,4 +1,4 @@
-/*let favorite_fruits: string[] = ["apples", "bananas", "cherries"];
+let favorite_fruits: string[] = ["apples", "bananas", "cherries"];
 
 if (favorite_fruits.includes("bananas")) {
     console.log("You really like bananas!");
@@ -6,8 +6,8 @@ if (favorite_fruits.includes("bananas")) {
 if (favorite_fruits.includes("apples")) {
     console.log("You really like apples!");
 }
-// Continue with more fruits*/
-/*let age: number = 50
+
+let age: number = 50
 if (age<2){
     console.log("hes a baby")
 }else if (age< 10){
@@ -20,7 +20,8 @@ if (age<2){
     console.log("hes in middle Age")
 }else{
     console.log("hes senior citizen")
-}*/
+}
+
 var usernames = ["user1", "admin", "user3", "user4"];
 usernames.forEach(function (username) {
     if (username === "admin") {
